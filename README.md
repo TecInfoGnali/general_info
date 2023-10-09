@@ -1,8 +1,17 @@
-# conhecimento
+# Informações gerais e Aplicações interessantes
+
+Este repositório contém informações agregadas a respeito de aplicações e comandos que são úteis para o meu dia a dia, como usuário Linux.
+
+# Cotidiano
+Ainda em desenvolvimento
+
+## [Manutenção de SO Linux (Debian)](src/manutLinux_Debian.md)
+
+# Manutenção
+Ainda em desenvolvimento
 
 # [OpenSSH](src/OpenSSH_Guide.md)
 
-# [Manutenção de SO Linux (Debian)](src/manutLinux_Debian.md)
 
 # [Super Productivity](src/SuperProductivity.md)
 
