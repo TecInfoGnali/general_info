@@ -25,9 +25,13 @@ Ainda em desenvolvimento
  - ## [Ventoy](src/formatacao.md#ventoy)
    - ###  [Formatação particionada](src/formatacao.md#formatação-particionada)
    - ### [Instalação no linux](src/formatacao.md#instalação-no-linux)
- - ##  [Notebook positivo motion q4128c](src/formatacao.md#notebook-positivo-motion-q4128c)
+
  - ## [Informações adquiridas a respeito de formatação](src/formatacao.md#informações-adquiridas-a-respeito-de-formatação)
    - ### [Tecnologias de formatação](src/formatacao.md#tecnologias-de-formatação)
 
 
 # [Informação sobre Distribuições Linux](src/info_Distros.md)
+
+# [Informações importantes para minhas máquinas]
+
+ - ##  [Notebook positivo motion q4128c](src/formatacao.md#notebook-positivo-motion-q4128c)

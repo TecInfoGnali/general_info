@@ -1,3 +1,5 @@
+[Principal](../README.md)
+
 - [Informações para Formatação e construção de HD Bootavel](#informações-para-formatação-e-construção-de-hd-bootavel)
   - [Ventoy](#ventoy)
     - [Formatação particionada](#formatação-particionada)
@@ -5,16 +7,6 @@
 - [Notebook positivo motion q4128c](#notebook-positivo-motion-q4128c)
 - [Informações adquiridas a respeito de formatação](#informações-adquiridas-a-respeito-de-formatação)
   - [Tecnologias de formatação](#tecnologias-de-formatação)
-
-
-
-
-
-
-
-
-
-
 
 
 ## Informações para Formatação e construção de HD Bootavel

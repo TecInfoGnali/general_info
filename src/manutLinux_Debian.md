@@ -1,4 +1,4 @@
-
+[Principal](../README.md)
 # Aplicações Linux
 
 Editor Dconf: - Velocidade de minimização de janelas:
@@ -18,7 +18,7 @@ Reparando dpkg
 Reparando Pacotes com Falha
 `sudo apt-get clean -y && sudo apt-get autoremove -y && sudo apt-get autoclean -y && sudo apt-get remove -f -y`
 
-### [Lista de comando do Howto APT APT-GET do ubuntu](ubuntuhelp_AptGet.md)
+### [Lista de comando do Howto APT APT-GET do ubuntu](apt-get/ubuntuhelp_AptGet.md)
 
 
 **Salve os valores anteriores antes de fazer qualquer alteração**

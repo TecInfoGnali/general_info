@@ -1,3 +1,5 @@
+[Principal](../README.md)
+
 # SuperProductivity Atalhos
 
 `Ctrl + Shift + `
