@@ -34,4 +34,4 @@ Ainda em desenvolvimento
 
 # [Informações importantes para minhas máquinas]
 
- - ##  [Notebook positivo motion q4128c](src/formatacao.md#notebook-positivo-motion-q4128c)
+ - ## [Notebook positivo motion q4128c](src/formatacao.md#notebook-positivo-motion-q4128c)
