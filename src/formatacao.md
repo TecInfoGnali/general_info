@@ -1,12 +1,7 @@
 [Principal](../README.md)
 
-- [Informações para Formatação e construção de HD Bootavel](#informações-para-formatação-e-construção-de-hd-bootavel)
-  - [Ventoy](#ventoy)
-    - [Formatação particionada](#formatação-particionada)
-    - [Instalação no linux](#instalação-no-linux)
-- [Notebook positivo motion q4128c](#notebook-positivo-motion-q4128c)
-- [Informações adquiridas a respeito de formatação](#informações-adquiridas-a-respeito-de-formatação)
-  - [Tecnologias de formatação](#tecnologias-de-formatação)
+- [Informações importantes para minhas máquinas](#informações-importantes-para-minhas-máquinas)
+  - [Notebook positivo motion q4128c](#notebook-positivo-motion-q4128c)
 
 
 ## Informações para Formatação e construção de HD Bootavel
@@ -30,11 +25,6 @@ O aplicativo Exige que todo HD seja formatado e ele não será mais particionáv
    
 ---
 
-## Notebook positivo motion q4128c
-[Link com Informações a respeito de formatação do notebook](https://www.meupositivo.com.br/para-voce/suporte-tecnico/drivers)
-
----
-
 ## Informações adquiridas a respeito de formatação
 
 ### Tecnologias de formatação
@@ -47,4 +37,12 @@ O aplicativo Exige que todo HD seja formatado e ele não será mais particionáv
    - Virtualmente Sem limite
    - 128 partições primárias
    - 18 exabytes
-   - 
+
+---
+
+# Informações importantes para minhas máquinas
+
+## Notebook positivo motion q4128c
+[Link com Informações a respeito de formatação do notebook](https://www.meupositivo.com.br/para-voce/suporte-tecnico/drivers)
+
+---
