@@ -32,6 +32,6 @@ Ainda em desenvolvimento
 
 # [Informação sobre Distribuições Linux](src/info_Distros.md)
 
-# [Informações importantes para minhas máquinas]
+# Informações importantes para minhas máquinas
 
  - ## [Notebook positivo motion q4128c](src/formatacao.md#notebook-positivo-motion-q4128c)
